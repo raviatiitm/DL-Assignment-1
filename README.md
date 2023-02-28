@@ -1,2 +1,2 @@
 # DL-Assignments
- IIT Madras Deep Learning Assignment
+CS6910 IIT Madras Deep Learning Assignment
