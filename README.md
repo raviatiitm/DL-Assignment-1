@@ -1,7 +1,5 @@
 # DL-Assignments
-CS6910 IIT Madras Deep Learning Assignment
-
-The wandb report link is: https://wandb.ai/adi00510/fashion_mnist/reports/-Assignment-1--Vmlldzo1MjA1ODY
+`CS6910` IIT Madras Deep Learning Assignment
 
 1. Question 1
     1. Just by running the code (in google colab), we can see the output of the code in wandb.
