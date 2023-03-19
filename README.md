@@ -54,15 +54,15 @@
 
 7. Question 10
 
-	We used three of the best congruences from the fashion mnist dataset's previous congruences to import Mnist data from the Keras dataset into this file.
+	We used three of the best congruences from the fashion mnist dataset's previous congruences to import Mnist data from the Keras dataset into this file.<br>
 8. Train.py
 
-	1.You must use the api key to log into your wandb account from the terminal in order to use train.py.
-	2.Please enter proper credentials like project name and entity name in the terminal's parameters.
-	3.By including a member function in the class NeuralNetwork and adding the initializer's name to the Initialization list dictionary, you can add new initialization methods.
-	4.By including a member function in the class NeuralNetwork and entering the function's name into the dictionary for the activation list, you can add additional activation functions.
-	5.By inserting new code in the area designated by the fit technique, new optimization methods can be added.
-	6.Please use the following example to call train.py with the proper argument:
+	1.You must use the api key to log into your wandb account from the terminal in order to use train.py.<br>
+	2.Please enter proper credentials like project name and entity name in the terminal's parameters.<br>
+	3.By including a member function in the class NeuralNetwork and adding the initializer's name to the Initialization list dictionary, you can add new initialization methods.<br>
+	4.By including a member function in the class NeuralNetwork and entering the function's name into the dictionary for the activation list, you can add additional activation functions.<br>
+	5.By inserting new code in the area designated by the fit technique, new optimization methods can be added.<br>
+	6.Please use the following example to call train.py with the proper argument:<br>
 		python train.py -e 1 -w_i Xavier -b 32 -o nag -nhl 3 -sz 128 -d fashion_mnist -l mean_squared_error -lr 0.001
 
 
